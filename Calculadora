@@ -15,3 +15,7 @@ elif operacao  == '/':
     resultado = numero1 / numero2 
 elif operacao  == '*':
     resultado = numero1 * numero2 
+Else:
+         Resultado = "operação invalida"
+
+Print(str(numero1) + '  ' + str(operacao) + '  ' + str(numero2) + ' = ' + str(resultado))
