@@ -13,4 +13,5 @@ elif operacao  =='-':
     resultado = numero1 - numero2 
 elif operacao  == '/':
     resultado = numero1 / numero2 
-
+elif operacao  == '*':
+    resultado = numero1 * numero2 
