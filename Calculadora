@@ -7,7 +7,7 @@ numero1 = int(input('Digite numero 1:'))
 operacao = input('Digite a operação: ')
 numero2 = int(input('Digite o numero 2:'))
  
-if = operacao =='+' :
+if  operacao =='+' :
     Resultado = numero1 + numero2
 elif operacao  =='-':
     resultado = numero1 - numero2 
