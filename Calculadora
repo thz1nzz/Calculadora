@@ -1,1 +1,2 @@
 
+Print(str(numero1) + '  ' + str(operacao) + '  ' + str(numero2) + ' = ' + str(resultado))
